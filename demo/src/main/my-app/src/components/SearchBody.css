@@ -1,0 +1,14 @@
+div{
+    margin:10px;
+}
+input{
+    margin-left:5px;
+    border-radius: 6px;
+}
+form{
+    background-color: antiquewhite;
+    padding: 5px;
+}
+button{
+    border-radius: 8px;
+}
